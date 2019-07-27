@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "PSU Hacking Club: Static File Hosting"
+theme = "ananke"
+
+[menu]
+
+
+  [[menu.main]]
+  identifier = "Install-Information"
+  name = "Install Information"
+  pre = "<i class='fa fa-heart'></i>"
+  url = "posts/infoh/"
+  weight = -110
+
+    [[menu.main]]
+    identifier = "download"
+    name = "download"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "static/core_psu-hacking.iso"
+    weight = -110
+
+    [[menu.main]]
+    identifier = "@Github"
+    name = "@Github"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "https://github.com/psu-hacking"
+    weight = -110
