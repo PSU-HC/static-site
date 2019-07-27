@@ -2,6 +2,8 @@
 
 Static site built with [Hugo CLI](https://gohugo.io/getting-started/quick-start/)
 
+*Note, file core_psu-hacking.iso is omitted for size constraints-
+hosted site contains this file @ directory /static/static/*
 ```
 # on OSX
 # get hugo
