@@ -29,9 +29,8 @@ sftp user@yoursite.net
 # new terminal window
 
 ssh user@yoursite.net
+# check your remote filesystem- the idea is:
 > unzip site-archive.zip
-> cd # back to sftp root- example is using Dreamhost as remote
-> mv yoursite.net/site-archive/* yoursite.net
 > rm -rf yoursite.net/site-archive.zip
 ```
 
