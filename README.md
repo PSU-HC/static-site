@@ -34,4 +34,4 @@ ssh user@yoursite.net
 > rm -rf yoursite.net/site-archive.zip
 ```
 
-vitit @ [psuhacking.club]()
+vitit @ [https://psuhacking.club]()
