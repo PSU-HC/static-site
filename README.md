@@ -34,4 +34,4 @@ ssh user@yoursite.net
 > rm -rf yoursite.net/site-archive.zip
 ```
 
-Hosting planned @ psuhacking.club.
+vitit @ [psuhacking.club]()

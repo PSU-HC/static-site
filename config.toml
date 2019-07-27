@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://psuhacking.club/"
 languageCode = "en-us"
 title = "PSU Hacking Club: Static File Hosting"
 theme = "ananke"
