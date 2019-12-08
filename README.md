@@ -1,9 +1,11 @@
 # Simple File Hosting
 
-Static site built with [Hugo CLI](https://gohugo.io/getting-started/quick-start/)
+_ _ _
+***README yet to be updated with Makerspace-specific formatting*** 
+_ _ _
+   
+Static site built quickly with [Hugo CLI](https://gohugo.io/getting-started/quick-start/)
 
-*Note, file "core_psu-hacking.iso" is omitted for size constraints-
-hosted site contains this file @ directory /static/static/*
 ```
 # on OSX
 # get hugo
